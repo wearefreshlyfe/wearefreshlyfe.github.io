@@ -1372,13 +1372,13 @@ body {
   display: none;
 }
 .cid-qQDUw9JaWz .navbar {
-  background: #232323;
+  background: #465052;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qQDUw9JaWz .navbar-dropdown.bg-color.transparent.opened {
-  background: #232323;
+  background: #465052;
 }
 .cid-qQDUw9JaWz a {
   font-style: normal;
@@ -1462,7 +1462,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qQDUw9JaWz .dropdown .dropdown-menu {
-  background: #232323;
+  background: #465052;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1817,7 +1817,7 @@ body {
 .cid-qQE1UXgPi0 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background: linear-gradient(45deg, #232323, #232323);
+  background: linear-gradient(45deg, #465052, #232323);
 }
 .cid-qQE1UXgPi0 .btn {
   margin: 0 0 .5rem 0;
